@@ -103,7 +103,7 @@ This ensures predictions are explainable and clinically meaningful.
 ## Key Highlights
 - End-to-end machine learning pipeline
 - Advanced class balancing using SMOTE-ENN
-- Comparative analysis of 10 machine learning models
+- Comparative analysis of 9 machine learning models
 - Strong focus on explainable AI and interpretability
 - Suitable for early mental health risk screening systems
 
